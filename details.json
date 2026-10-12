@@ -1,0 +1,17 @@
+{
+  "city": "Chennai",
+  "weather": {
+    "temp": 32,
+    "humidity": 70
+  },
+  "forecast": [
+    {
+      "day": "Mon",
+      "temp": 31
+    },
+    {
+      "day": "Tue",
+      "temp": 33
+    }
+  ]
+}
