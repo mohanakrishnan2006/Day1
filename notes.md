@@ -36,4 +36,18 @@ Error Handling:
 
 try:
 Except errorName:
+*********************************************************************************************************************************
+
+day 3:
+
+Asychronous running of task
+
+start=pref_counter()
+
+await client.get
+async def fucntion_name:
+
+asyncio.gather()->gather all tasks together 
+
+(*tasks)->every task will be sperated in form of list using ,(comma)
 
